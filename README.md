@@ -1,0 +1,1 @@
+I will update the code shortly but as of now you can refer my blog here https://medium.com/@yashyathish850/normal-distribution-demystefied-learn-how-pdf-and-cdf-is-used-to-shape-data-insights-5b3d9a5cfaf2
